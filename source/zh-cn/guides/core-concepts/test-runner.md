@@ -11,7 +11,7 @@ title: 测试执行器
 
 # 概述
 
-Cypress在一个独特的交互式运行器中运行测试，允许你崽执行时查看命令，同时还可以查看被测试应用程序。
+Cypress在一个独特的交互式运行器中运行测试，允许你在执行时查看命令，同时还可以查看被测试应用程序。
 
 {% imgTag /img/guides/gui-diagram.png "Cypress Test Runner" "no-border" %}
 
